@@ -1,0 +1,48 @@
+<!--Comments-->
+
+<head>
+<!DOCTYPE html>
+<link rel="stylesheet" href="99-styles.css" type="text/css" media="all">
+
+<nav>
+  <ul>
+    <li><a href="01-mainpage.html">Home</strong></li>
+    <li><a href="02-about.html">About Me</a></li>
+    <li><a href="03-services.html">My Services</a></li>
+    <li><a href="04-testimonials.html">Testimonials</a></li>
+    <li><a href="05-contact.html">Contact Details</a></li>
+  </ul>
+</nav>
+
+</head>
+
+<body>
+
+<h1>
+Petra's Copywriting Website
+</h1>
+
+<h2>
+Testimonials
+</h2>
+
+<p>
+Testimonial 1:
+<br><br>
+Petra Nurmi has worked with Pegasus Publishers as a freelance proof-reader for several years now. In that time, she has worked on multiple manuscripts and her work is always of high quality. She is a hard-working and diligent proof-reader. 
+<br><br>
+Her turn-around time is always punctual and she works quickly but accurately.
+<br><br>
+We would certainly recommend her.
+<br><br>
+Kind Regards,
+<br><br>
+JENNA EVANS
+<br>
+PRODUCTION COORDINATOR
+<br>
+PEGASUS ELLIOT MACKENZIE PUBLISHERS LTD
+</p>
+
+</body>
+</html>

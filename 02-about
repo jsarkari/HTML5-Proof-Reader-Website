@@ -1,0 +1,54 @@
+<!--Comments-->
+
+<head>
+<!DOCTYPE html>
+<link rel="stylesheet" href="99-styles.css" type="text/css" media="all">
+
+<nav>
+  <ul>
+    <li><a href="01-mainpage.html">Home</strong></li>
+    <li><a href="02-about.html">About Me</a></li>
+    <li><a href="03-services.html">My Services</a></li>
+    <li><a href="04-testimonials.html">Testimonials</a></li>
+    <li><a href="05-contact.html">Contact Details</a></li>
+  </ul>
+</nav>
+
+</head>
+
+<body>
+
+<h1>
+Petra's Copywriting Website
+</h1>
+
+<h2>
+About Me
+</h2>
+
+<br>
+<img src="C:\Users\j_sar\OneDrive\Documents\Learning and Development\My Web Sites\Test Websites\photo1.jpg"
+alt="My pic" style="width:250px;height:250px;">
+<br>
+
+<p>
+Based in Essex, I am a copy writer and proof reader with a keen eye for detail, unwavering focus and the inability to take anything for granted. 
+<br><br>
+I don&#39t just proof read a document: I interrogates it. Armed only with a red pen, a dictionary and the absolute conviction that whatever I proof read, no matter how professionally produced, must contain at least one error, I contribute to the safeguarding of corporate, professional and personal reputations one word at a time. 
+<br><br>
+I am just as at home working in-house as part of a publications or document-preparation team as I am working remotely, using whatever software or electronic methodology my client is most comfortable with. However you wish to work, I&#39m only too happy to accommodate.
+<br><br>
+&#39Never assume&#39 is my motto. Anything that appears even slightly suspect will be comprehensively investigated. You&#39re as likely to see me with a telephone in his hand, eliminating queries, as you are to see me grasping a red pen, poring over a printed page. 
+<br><br>
+Although I am thorough by nature, I fully appreciates the hectic and demanding pace of the commercial world. I work swiftly and decisively, prioritising my workload to reflect my client&#39s requirements. Neither pig headed nor pedantic, I recognise the necessity for intelligent and judicious compromise when deadlines loom and budgets demand. 
+<br><br>
+To review a selection of recently completed projects, click here. 
+<br><br>
+To read what my clients have to say about me, click here. 
+<br><br>
+To speak to me about a potential copywriting or proofreading project, call 07966 508 407, or email me at petaln8@gmail.com
+<br>
+</p>
+
+</body>
+</html>
